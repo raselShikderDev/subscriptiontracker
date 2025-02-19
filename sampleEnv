@@ -3,5 +3,6 @@ NODE_ENV=development
 MONGO_DB_URI=""
 JSON_SECRET="SubCriptionApp"
 JSON_EXPIRY="1d"
+ARCJET_KEY=ajkey_01jmfyjv3ye0xv5j7b8ry8a926
 
-# YT=https://github.com/adrianhajdin/subscription-tracker-api
+# https://github.com/adrianhajdin/subscription-tracker-api

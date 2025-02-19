@@ -2,8 +2,7 @@
 import mongoose from "mongoose";
 import bcryptjs from "bcryptjs";
 import jwt from 'jsonwebtoken';
-import UserSchema from "../Models/userSchema";
-import { error } from "console";
+import UserSchema from "../Models/userSchema.js";
 
 export const signUp = async(req, res, next) => {
   const session = mongoose.startSession();

@@ -1,4 +1,4 @@
-import UserSchema from "../Models/userSchema";
+import UserSchema from "../Models/userSchema.js";
 
 // Getting all users 
 export const getAllUsers = async(req, res, next)=>{
