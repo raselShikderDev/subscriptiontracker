@@ -1,0 +1,10 @@
+# POST request to create a new user
+POST https://yourapiurl/api/v1/auth/signup
+Content-Type: application/json
+
+{
+    "name": "Rasel Shikder",
+    "email": "rasel@gmail.com",
+    "username": "rasel10",
+    "password": "noPassRSl63$#"
+}
