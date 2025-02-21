@@ -9,6 +9,7 @@ QSTASH_URL=https://qstash.upstash.io
 QSTASH_TOKEN="eyJVc2VySUQiOiI1YzEzZGQ3YS01YmZhLTQ4OTMtOTM3Yy1lMDdiZTQyYzA2OTYiLCJQYXNzd29yZCI6Ijk0NTJmZWI5YjAwMzQwOGM5Mjg5YjE0ZjgzN2Y2ZTM5In0="
 QSTASH_CURRENT_SIGNING_KEY="sig_7dJpgKVzcgeu9fPqzxL8bx45Q9C5"
 QSTASH_NEXT_SIGNING_KEY="sig_7ifPKo6wu5Z2hhRxqmktWmaeo5h7"
-
+EMAIL_ACCOUNT=""
+EMAIL_PASS=""
 
 # https://github.com/adrianhajdin/subscription-tracker-api
