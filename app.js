@@ -9,7 +9,6 @@ import errorMiddleware from './middlewares/errorMiddleware.js';
 import arcjetMiddleware from './middlewares/arcjetMiddleware.js';
 import workflowRouter from './routes/workflow.routes.js';
 
-
 config(); 
 const port = process.env.PORT || 3000; 
 const app = express();
